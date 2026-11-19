@@ -1,4 +1,4 @@
-# moxlade-com
+# Moxlade
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,124 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 moxlade-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://moxlade.com/
+
+**Areas:** Upwork data · Freelancer data · Buyer intelligence · Data marketplace · API · Apify actors
+
+## Moxlade on APIs.io
+
+Everything profiled for Moxlade is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moxlade-com/](https://apis.io/providers/moxlade-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Moxlade Ext API](https://apis.io/apis/moxlade-com/moxlade-com-ext-api/) — The Ext API from Moxlade — 1 operation(s) for ext.
+- [Moxlade MCP API](https://apis.io/apis/moxlade-com/moxlade-com-mcp-api/) — The Mcp API from Moxlade — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Moxlade Com Webhooks](https://apis.io/asyncapis/moxlade-com/moxlade-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Moxlade Agentic Access](https://apis.io/agentic-access/moxlade-com/moxlade-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Moxlade Com Context](https://apis.io/jsonld/moxlade-com/moxlade-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Moxlade API Rules](https://apis.io/rules/moxlade-com/moxlade-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Moxlade Authentication](https://apis.io/security/moxlade-com/moxlade-com-authentication/)
+- [Moxlade Domain Security](https://apis.io/security/moxlade-com/moxlade-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Moxlade Scopes](https://apis.io/scopes/moxlade-com/moxlade-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://moxlade.com/)
+- [Documentation](https://moxlade.com/guides/)
+- [Getting started](https://buyer.moxlade.com/docs/quickstart)
+- [API reference](https://buyer.moxlade.com/docs/tools)
+- [Changelog](https://buyer.moxlade.com/docs/changelog)
+- [Blog](https://moxlade.com/)
+- [Terms of service](https://moxlade.com/terms/)
+- [Privacy policy](https://moxlade.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 48.0** — developing · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 64.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.4 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 43.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moxlade-com/](https://apis.io/providers/moxlade-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Moxlade: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/moxlade-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
